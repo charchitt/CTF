@@ -9,7 +9,7 @@
 
 ## InfosecWarrior CTF 2020
 
-##### InfosecWarrior Box 1
+##### InfoSecWarrior Box 1
 Box Creator : MAALP
 ....
 
