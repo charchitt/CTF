@@ -2,10 +2,13 @@
 
 ## CK-Series
 
-###### CK~00
+### CK~00
 
 **Description** : 
 
+Vulnerable VM to learn Basics of privilege escalation. Deficulty : Easy, Goal : Your goal will be to get highest privileged user and collect all the flags, Virtual box is recommended for configuring CK~00 box, Feel free to contact me at @CyberKnight00.
+
+Box Url : https://drive.google.com/file/d/17JrC7YenBFnaMOrnq5VvSagjb3yalQhx/view?usp=drivesdk
 
 ## InfosecWarrior CTF 2020
 
