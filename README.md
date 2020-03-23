@@ -45,3 +45,11 @@ Or ping them after finding them
 **Hint** : Notes and hint is everywhere you just have to _break_ them 
 
 **Box Url** : https://drive.google.com/file/d/18xdwoGm0Cq47BDMScbdVSBsWHIwaV_FH/view?usp=drivesdk
+
+### My File Server 3
+
+**Description**
+This box is upgraded edition of previous (MyFileServer 2) box.
+
+**Box Url** : https://drive.google.com/file/d/1D0uMa-pOpNjsDSDvIXn6aufhyTimxYZT/view?usp=drivesdk
+
