@@ -13,8 +13,11 @@ Box Url : https://drive.google.com/file/d/17JrC7YenBFnaMOrnq5VvSagjb3yalQhx/view
 ## InfosecWarrior CTF 2020
 
 ##### InfoSecWarrior Box 1
-Box Creator : MAALP
-....
+Box Creator : @MAALP
+
+**Description** : Easy box, you just have to Enumerate.
+
+**Box Url** : https://drive.google.com/file/d/1xJ5PEBznTNaN4724x6wSRbBclAcdqynV/view?usp=drivesdk
 
 ### InfosecWarrior Box 2
 
