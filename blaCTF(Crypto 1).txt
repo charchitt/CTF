@@ -1,0 +1,6 @@
+Name: NDc=
+Category: Cryptography
+
+Mz0yciV1TCNfJTBjZk4=
+
+Flag Formate : blaCTF{<- some string ->}

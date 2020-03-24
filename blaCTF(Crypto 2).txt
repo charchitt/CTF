@@ -1,0 +1,10 @@
+Name: Exclusive
+Category: Cryptography
+
+You just need bla lots of bla
+
+hint : 101010 ^ 100000 = bla
+
+21382719145110334011330f52183e115c3e060907430f14531511
+
+Flag Formate = blaCTF{<- string ->}
